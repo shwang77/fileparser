@@ -1,0 +1,26 @@
+{
+  "pk": "12345678",
+  "source": "test.json",
+  "issues": [
+    {
+      "key": "1",
+      "fields": {
+        "issuetype": "100",
+        "status": {
+          "description": "A resolution has been taken, and it is awaiting verification by reporter. From here issues are either reopened, or are closed.",
+          "name": "Resolved"
+        }
+      }
+    },
+    {
+      "key": "2",
+      "fields": {
+        "issuetype": "200",
+        "status": {
+          "description": "A resolution has been taken, and it is awaiting verification by reporter. From here issues are either reopened, or are closed.",
+          "name": "Resolved"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+id,name,job,score
+1,'Pete Houston','Software Engineer',92
+2,'John Wick','Assassin',95
+3,'Bruce Wayne','Batman',99
+4,'Clark Kent','Superman',95
+
